@@ -11,6 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/page.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
@@ -25,9 +26,12 @@
 
 		<!-- Signup Form -->
 			<form id="signup-form" method="post" action="#">
-				<input type="email" name="email" id="email" placeholder="输入游戏名查老司机" />
-				<input type="button" value="Search" />
+				<input type="text" name="searchInput" id="searchInput" placeholder="输入游戏名或关键字查老司机" />
 			</form>
+
+			<div id="result">
+				
+			</div>
 
 		<!-- Footer -->
 			<footer id="footer">
@@ -44,7 +48,7 @@
 
 		<!-- Scripts -->
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
+			<script type="text/javascript" src="bundle.js" charset="utf-8"></script>
 
 	</body>
 </html>
