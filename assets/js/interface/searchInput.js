@@ -1,7 +1,11 @@
 import {showResult} from './resultTable';
 
 function onInput(event) {
-    const gameName = event.target.value;
+    const keyword = event.target.value;
+    if(''==keyword){
+        document.getElementById('result').innerHTML = '';
+        return;
+    }
     showResult(event.target.value);
 }
 
