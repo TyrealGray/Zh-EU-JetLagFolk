@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "a tool for search our zh-eu jet lag folk",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --progress --colors",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
