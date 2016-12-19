@@ -4,7 +4,7 @@ export default {
         qq:'312846541',
         steam:'http://steamcommunity.com/id/tyrealgray',
         platform:'xbox(TyrealGray), steam',
-        wanted:'Battlerite, HELLDIVERS, Terraria, Dying Light(xbox), Overwatch(xbox)'
+        wanted:'Battlerite, HELLDIVERS, Rainbow Six Siege(xbox), Dying Light(xbox), Overwatch(xbox)'
     },{
         name:'郭一年',
         qq:'971395764',
@@ -62,6 +62,12 @@ export default {
         qq:'521266013',
         steam:'',
         platform:'xbox(SUNTAO0314)',
-        wanted:'FIFA17(xbox), Dying Light(xbox), Overwatch(xbox)'
+        wanted:'FIFA17(xbox), Dying Light(xbox), Overwatch(xbox), Rainbow Six Siege(xbox)'
+    },{
+        name:'阿豪',
+        qq:'198560609',
+        steam:'http://steamcommunity.com/profiles/76561198130311114',
+        platform:'steam',
+        wanted:'lol, Rainbow Six Siege'
     }]
 }
