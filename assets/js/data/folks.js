@@ -75,5 +75,11 @@ export default {
         steam: 'http://steamcommunity.com/profiles/76561198263992271',
         platform: 'steam',
         wanted: 'GTA5'
+    }, {
+        name: '怪蜀黍',
+        qq: '496393688',
+        steam: 'http://steamcommunity.com/id/496393688/',
+        platform: 'steam',
+        wanted: 'GTA5'
     }]
 }
