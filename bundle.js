@@ -390,7 +390,7 @@
 	        qq: '191619884',
 	        steam: 'http://steamcommunity.com/profiles/76561198089957998',
 	        platform: 'steam',
-	        wanted: 'astroneer, GTA5, HELLDIVERS, Terraria'
+	        wanted: 'Astroneer, GTA5, HELLDIVERS, Terraria'
 	    }, {
 	        name: '横空飞禹',
 	        qq: '526733527',
@@ -421,6 +421,12 @@
 	        steam: 'http://steamcommunity.com/profiles/76561198263992271',
 	        platform: 'steam',
 	        wanted: 'GTA5'
+	    }, {
+	        name: 'Nightwish_将夜',
+	        qq: '573949138',
+	        steam: 'http://steamcommunity.com/profiles/76561198254542654',
+	        platform: 'steam',
+	        wanted: 'Battlerite'
 	    }]
 	};
 
