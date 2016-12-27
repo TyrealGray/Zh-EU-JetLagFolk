@@ -81,5 +81,11 @@ export default {
         steam: 'http://steamcommunity.com/id/496393688/',
         platform: 'steam',
         wanted: 'GTA5'
+    }, {
+        name: 'Klaus',
+        qq: '2250870219',
+        steam: '',
+        platform: 'xbox(laopang0401)',
+        wanted: 'GTA5(xbox), Froza Horizon3(xbox)'
     }]
 }
