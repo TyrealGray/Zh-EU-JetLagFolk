@@ -87,5 +87,23 @@ export default {
         steam: '',
         platform: 'xbox(laopang0401)',
         wanted: 'GTA5(xbox), Froza Horizon3(xbox)'
+    }, {
+        name: '朱达',
+        qq: '3216580562',
+        steam: '',
+        platform: 'xbox(zhudanb)',
+        wanted: 'Battlefield 1(xbox), Titanfall 2(xbox), Overwatch(xbox)'
+    }, {
+        name: '我叫苺茜呀',
+        qq: '591251280',
+        steam: '',
+        platform: 'xbox(China k2)',
+        wanted: 'Tom Clancy\'s The Division(xbox)'
+    }, {
+        name: 'Si Seulement',
+        qq: '573949138',
+        steam: 'http://steamcommunity.com/profiles/76561198254542654',
+        platform: 'steam',
+        wanted: 'Battlerite'
     }]
 }
