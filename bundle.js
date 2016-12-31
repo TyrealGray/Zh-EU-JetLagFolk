@@ -438,7 +438,7 @@
 	        qq: '3216580562',
 	        steam: '',
 	        platform: 'xbox(zhudanb)',
-	        wanted: 'Battlefield 1(xbox), Titanfall 2(xbox), Overwatch(xbox)'
+	        wanted: 'Battlefield 1(xbox), Titanfall 2(xbox), Overwatch(xbox), Destiny(xbox)'
 	    }, {
 	        name: '我叫苺茜呀',
 	        qq: '591251280',
