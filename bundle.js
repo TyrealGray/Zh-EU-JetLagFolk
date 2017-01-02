@@ -396,7 +396,7 @@
 	        qq: '526733527',
 	        steam: 'http://steamcommunity.com/id/liuame',
 	        platform: 'steam',
-	        wanted: 'Don\'t Starve Together, GTA5,'
+	        wanted: 'Don\'t Starve Together, GTA5, ARK, Dota2, Astroneer, Dying Light, Torchlight2, Dead by Daylight'
 	    }, {
 	        name: '猫先生',
 	        qq: '1551512519',
