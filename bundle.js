@@ -396,7 +396,7 @@
 	        qq: '526733527',
 	        steam: 'http://steamcommunity.com/id/liuame',
 	        platform: 'steam',
-	        wanted: 'Don\'t Starve Together, GTA5, ARK, Dota2, Astroneer, Dying Light, Torchlight2, Dead by Daylight'
+	        wanted: 'Don\'t Starve Together, GTA5,  ARK, Dota2, Astroneer, Dying Light, Torchlight2, Dead by Daylight'
 	    }, {
 	        name: '猫先生',
 	        qq: '1551512519',
@@ -438,7 +438,7 @@
 	        qq: '3216580562',
 	        steam: '',
 	        platform: 'xbox(zhudanb)',
-	        wanted: 'Battlefield 1(xbox), Titanfall 2(xbox), Overwatch(xbox), Destiny(xbox)'
+	        wanted: 'Battlefield 1(xbox), Titanfall 2(xbox), Overwatch(xbox)'
 	    }, {
 	        name: '我叫苺茜呀',
 	        qq: '591251280',
@@ -451,6 +451,12 @@
 	        steam: 'http://steamcommunity.com/profiles/76561198254542654',
 	        platform: 'steam',
 	        wanted: 'Battlerite'
+	    }, {
+	        name: 'K',
+	        qq: '137107209',
+	        steam: 'http://steamcommunity.com/profiles/76561198112197186',
+	        platform: 'steam',
+	        wanted: 'GTA5'
 	    }]
 	};
 
