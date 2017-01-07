@@ -457,6 +457,18 @@
 	        steam: 'http://steamcommunity.com/profiles/76561198112197186',
 	        platform: 'steam',
 	        wanted: 'GTA5'
+	    }, {
+	        name: '都是虚名',
+	        qq: '2780353702',
+	        steam: 'http://steamcommunity.com/profiles/76561198153355856/',
+	        platform: 'steam',
+	        wanted: 'Battlerite, Battlefield 1'
+	    }, {
+	        name: 'Samael`',
+	        qq: '379326483',
+	        steam: 'http://steamcommunity.com/profiles/76561198357662869/',
+	        platform: 'steam',
+	        wanted: ''
 	    }]
 	};
 
