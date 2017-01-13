@@ -469,6 +469,12 @@
 	        steam: 'http://steamcommunity.com/profiles/76561198357662869/',
 	        platform: 'steam',
 	        wanted: ''
+	    }, {
+	        name: 'b',
+	        qq: '469963000',
+	        steam: 'http://steamcommunity.com/profiles/76561198269542454/',
+	        platform: 'steam',
+	        wanted: 'GTA5'
 	    }]
 	};
 
