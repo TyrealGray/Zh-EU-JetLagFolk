@@ -406,9 +406,9 @@
 	    }, {
 	        name: '呀！韬韬~',
 	        qq: '521266013',
-	        steam: '',
-	        platform: 'xbox(SUNTAO0314)',
-	        wanted: 'FIFA17(xbox), Dying Light(xbox), Overwatch(xbox), Rainbow Six Siege(xbox)'
+	        steam: 'http://steamcommunity.com/id/76561198303950151/',
+	        platform: 'xbox(SUNTAO0314), steam',
+	        wanted: 'FIFA17(xbox), Dying Light(xbox), Overwatch(xbox), Rainbow Six Siege(xbox), HELLDIVERS'
 	    }, {
 	        name: '阿豪',
 	        qq: '198560609',
