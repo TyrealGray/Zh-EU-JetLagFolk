@@ -129,5 +129,11 @@ export default {
         steam: 'http://steamcommunity.com/profiles/76561198269542454/',
         platform: 'steam',
         wanted: 'GTA5'
+    }, {
+        name: 'WooooPrime',
+        qq: '642404169',
+        steam: 'http://steamcommunity.com/id/WooooPrime',
+        platform: 'steam',
+        wanted: 'Counter-Strike: Global Offensive'
     }]
 }
