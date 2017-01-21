@@ -135,5 +135,11 @@ export default {
         steam: 'http://steamcommunity.com/id/WooooPrime',
         platform: 'steam',
         wanted: 'Counter-Strike: Global Offensive'
+    }, {
+        name: 'Aki',
+        qq: '290197985',
+        steam: 'http://steamcommunity.com/id/tiaratian/',
+        platform: 'steam',
+        wanted: 'Don\'t Starve Together, Starbound'
     }]
 }
