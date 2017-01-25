@@ -487,6 +487,12 @@
 	        steam: 'http://steamcommunity.com/id/tiaratian/',
 	        platform: 'steam',
 	        wanted: 'Don\'t Starve Together, Starbound'
+	    }, {
+	        name: ',p傻缺失,〃',
+	        qq: '643836106',
+	        steam: 'http://steamcommunity.com/id/643836106',
+	        platform: 'steam',
+	        wanted: 'Terraria'
 	    }]
 	};
 
