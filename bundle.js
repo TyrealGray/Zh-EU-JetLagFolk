@@ -493,7 +493,13 @@
 	        steam: 'http://steamcommunity.com/id/643836106',
 	        platform: 'steam',
 	        wanted: 'Terraria'
-	    }]
+	    }, {
+			name: '闪灵',
+			qq: '305847865',
+			steam: 'http://steamcommunity.com/id/10000006',
+			platform:'steam',
+			wanted:'GTA5'
+		}]
 	};
 
 /***/ }
