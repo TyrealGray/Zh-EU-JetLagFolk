@@ -32,6 +32,13 @@ export default {
         wanted: 'Battlerite'
     },
     {
+        name: 'M',
+        qq: '1053272982',
+        platform: 'ps(nikofeder)',
+        steam: '',
+        wanted: 'GTA5(ps4)'
+    },
+    {
         name: '小迷妹',
         qq: '564759051',
         platform: 'steam',
@@ -111,15 +118,15 @@ export default {
         steam: 'http://steamcommunity.com/profiles/76561198112197186',
         platform: 'steam',
         wanted: 'GTA5'
-    },{
+    }, {
         name: '都是虚名',
-        qq:'2780353702',
+        qq: '2780353702',
         steam: 'http://steamcommunity.com/profiles/76561198153355856/',
         platform: 'steam',
         wanted: 'Battlerite, Battlefield 1'
-    },{
+    }, {
         name: 'Samael`',
-        qq:'379326483',
+        qq: '379326483',
         steam: 'http://steamcommunity.com/profiles/76561198357662869/',
         platform: 'steam',
         wanted: ''
@@ -142,10 +149,16 @@ export default {
         platform: 'steam',
         wanted: 'Don\'t Starve Together, Starbound'
     }, {
-        name:',p傻缺失,〃',
-        qq:'643836106',
-        steam:'http://steamcommunity.com/id/643836106',
-        platform:'steam',
-        wanted:'Terraria'
+        name: ',p傻缺失,〃',
+        qq: '643836106',
+        steam: 'http://steamcommunity.com/id/643836106',
+        platform: 'steam',
+        wanted: 'Terraria'
+    }, {
+        name: '闪灵',
+        qq: '305847865',
+        steam: 'http://steamcommunity.com/id/10000006',
+        platform: 'steam',
+        wanted: 'GTA5'
     }]
 }
