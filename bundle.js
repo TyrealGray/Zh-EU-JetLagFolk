@@ -380,6 +380,12 @@
 	        steam: 'http://steamcommunity.com/profiles/76561198079607263',
 	        wanted: 'Battlerite'
 	    }, {
+	        name: 'M',
+	        qq: '1053272982',
+	        platform: 'ps(nikofeder)',
+	        steam: '',
+	        wanted: 'GTA5(ps4)'
+	    }, {
 	        name: '小迷妹',
 	        qq: '564759051',
 	        platform: 'steam',
@@ -493,6 +499,12 @@
 	        steam: 'http://steamcommunity.com/id/643836106',
 	        platform: 'steam',
 	        wanted: 'Terraria'
+	    }, {
+	        name: '闪灵',
+	        qq: '305847865',
+	        steam: 'http://steamcommunity.com/id/10000006',
+	        platform: 'steam',
+	        wanted: 'GTA5'
 	    }]
 	};
 
