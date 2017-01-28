@@ -505,6 +505,12 @@
 	        steam: 'https://steamcommunity.com/id/10000006',
 	        platform: 'steam',
 	        wanted: 'GTA5'
+	    }, {
+	        name: 'Link',
+	        qq: '286815575',
+	        steam: 'https://steamcommunity.com/id/Linklzero',
+	        platform: 'steam',
+	        wanted: 'Battlerite'
 	    }]
 	};
 
