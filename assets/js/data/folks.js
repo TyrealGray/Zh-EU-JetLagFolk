@@ -22,7 +22,7 @@ export default {
         qq: '544040151',
         steam: 'https://steamcommunity.com/profiles/76561198250406440',
         platform: 'steam',
-        wanted: 'Battlerite'
+        wanted: 'Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), lol'
     },
     {
         name: 'WGL',
@@ -50,7 +50,7 @@ export default {
         qq: '191619884',
         steam: 'https://steamcommunity.com/profiles/76561198089957998',
         platform: 'steam',
-        wanted: 'astroneer, GTA5, HELLDIVERS, Terraria'
+        wanted: 'Astroneer, GTA5, HELLDIVERS, Terraria'
     }, {
         name: '横空飞禹',
         qq: '526733527',
@@ -63,7 +63,7 @@ export default {
         qq: '1551512519',
         steam: 'https://steamcommunity.com/id/shenyuahanlang',
         platform: 'steam',
-        wanted: 'Don\'t Starve Together, Terraria, Tom Clancy\'s The Division'
+        wanted: 'Don\'t Starve Together, Terraria, Tom Clancy\'s The Division(PC)'
     }, {
         name: '呀！韬韬~',
         qq: '521266013',
@@ -81,19 +81,19 @@ export default {
         qq: '1051109183',
         steam: 'https://steamcommunity.com/profiles/76561198263992271',
         platform: 'steam',
-        wanted: 'GTA5'
+        wanted: 'GTA5(PC)'
     }, {
         name: '怪蜀黍',
         qq: '496393688',
         steam: 'https://steamcommunity.com/id/496393688/',
         platform: 'steam',
-        wanted: 'GTA5'
+        wanted: 'GTA5(PC)'
     }, {
         name: 'Klaus',
         qq: '2250870219',
         steam: '',
         platform: 'xbox(laopang0401)',
-        wanted: 'GTA5(xbox), Froza Horizon3(xbox)'
+        wanted: 'GTA5(xbox), Froza Horizon3(xbox), Tom Clancy\'s the Division(xbox)'
     }, {
         name: '朱达',
         qq: '3216580562',
@@ -117,7 +117,7 @@ export default {
         qq: '137107209',
         steam: 'https://steamcommunity.com/profiles/76561198112197186',
         platform: 'steam',
-        wanted: 'GTA5'
+        wanted: 'GTA5(PC)'
     }, {
         name: '都是虚名',
         qq: '2780353702',
@@ -135,7 +135,7 @@ export default {
         qq: '469963000',
         steam: 'https://steamcommunity.com/profiles/76561198269542454/',
         platform: 'steam',
-        wanted: 'GTA5'
+        wanted: 'GTA5(PC)'
     }, {
         name: 'WooooPrime',
         qq: '642404169',
@@ -159,7 +159,7 @@ export default {
         qq: '305847865',
         steam: 'https://steamcommunity.com/id/10000006',
         platform: 'steam',
-        wanted: 'GTA5'
+        wanted: 'GTA5(PC)'
     },  {
         name: 'Link',
         qq: '286815575',
