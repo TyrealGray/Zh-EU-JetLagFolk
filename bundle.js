@@ -511,6 +511,12 @@
 	        steam: 'https://steamcommunity.com/id/Linklzero',
 	        platform: 'steam',
 	        wanted: 'Battlerite'
+	    }, {
+	        name: 'pp',
+	        qq: '82190639',
+	        steam: 'https://steamcommunity.com/id/jz_trapper',
+	        platform: 'steam',
+	        wanted: 'Tom Clancy\'s Ghost Recon Wildlands'
 	    }]
 	};
 
