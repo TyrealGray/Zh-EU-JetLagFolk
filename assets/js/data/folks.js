@@ -22,7 +22,7 @@ export default {
         qq: '544040151',
         steam: 'https://steamcommunity.com/profiles/76561198250406440',
         platform: 'steam',
-        wanted: 'Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), lol'
+        wanted: 'Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), lol, The Wild Eight'
     },
     {
         name: 'WGL',
@@ -69,7 +69,7 @@ export default {
         qq: '521266013',
         steam: 'https://steamcommunity.com/id/76561198303950151/',
         platform: 'xbox(SUNTAO0314), steam',
-        wanted: 'FIFA17(xbox), Dying Light(xbox), Overwatch(xbox), Rainbow Six Siege(xbox), HELLDIVERS'
+        wanted: 'FIFA17(xbox), Dying Light(xbox), Overwatch(xbox), Rainbow Six Siege(xbox), HELLDIVERS, The Wild Eight'
     }, {
         name: '阿豪',
         qq: '198560609',
@@ -172,5 +172,11 @@ export default {
         steam:'https://steamcommunity.com/id/jz_trapper',
         platform:'steam',
         wanted:'Tom Clancy\'s Ghost Recon Wildlands'
+    }, {
+        name:'chufangcheng',
+        qq:'635848205',
+        steam:'http://steamcommunity.com/id/chufangcheng',
+        platform:'steam',
+        wanted:'The Wild Eight'
     }]
 }
