@@ -177,6 +177,18 @@ export default {
         qq:'635848205',
         steam:'http://steamcommunity.com/id/chufangcheng',
         platform:'steam',
-        wanted:'The Wild Eight'
+        wanted:'The Wild Eight, lol'
+    }, {
+        name:'sin',
+        qq:'632564497',
+        steam:'http://steamcommunity.com/profiles/76561198058925058/',
+        platform:'steam',
+        wanted:'Tom Clancy\'s Rainbow Six Siege'
+    }, {
+        name:'酱油33colin',
+        qq:'1042507991',
+        steam:'http://steamcommunity.com/id/colin-lu',
+        platform:'steam',
+        wanted:'Tom Clancy\'s Rainbow Six Siege'
     }]
 }
