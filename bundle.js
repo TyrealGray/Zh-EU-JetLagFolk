@@ -436,9 +436,9 @@
 	    }, {
 	        name: 'Klaus',
 	        qq: '2250870219',
-	        steam: '',
-	        platform: 'xbox(laopang0401)',
-	        wanted: 'GTA5(xbox), Froza Horizon3(xbox), Tom Clancy\'s the Division(xbox)'
+	        steam: 'https://steamcommunity.com/profiles/76561198130692794',
+	        platform: 'xbox(laopang0401),steam',
+	        wanted: 'GTA5(xbox), Froza Horizon3(xbox), Tom Clancy\'s the Division(xbox), Terraria'
 	    }, {
 	        name: '朱达',
 	        qq: '3216580562',
@@ -520,21 +520,33 @@
 	    }, {
 	        name: 'chufangcheng',
 	        qq: '635848205',
-	        steam: 'http://steamcommunity.com/id/chufangcheng',
+	        steam: 'https://steamcommunity.com/id/chufangcheng',
 	        platform: 'steam',
 	        wanted: 'The Wild Eight, lol'
 	    }, {
 	        name: 'sin',
 	        qq: '632564497',
-	        steam: 'http://steamcommunity.com/profiles/76561198058925058/',
+	        steam: 'https://steamcommunity.com/profiles/76561198058925058/',
 	        platform: 'steam',
 	        wanted: 'Tom Clancy\'s Rainbow Six Siege'
 	    }, {
 	        name: '酱油33colin',
 	        qq: '1042507991',
-	        steam: 'http://steamcommunity.com/id/colin-lu',
+	        steam: 'https://steamcommunity.com/id/colin-lu',
 	        platform: 'steam',
 	        wanted: 'Tom Clancy\'s Rainbow Six Siege'
+	    }, {
+	        name: '勇者撸卡包',
+	        qq: '877637153',
+	        steam: 'https://steamcommunity.com/profiles/76561198145520776',
+	        platform: 'steam',
+	        wanted: 'Starbound, Terraria, Castle Crashers, Dota2'
+	    }, {
+	        name: 'PENG',
+	        qq: '369972822',
+	        steam: 'https://steamcommunity.com/id/punch1997',
+	        platform: 'steam',
+	        wanted: 'Tom Clancy\'s Rainbow Six Siege, Don\'t Starve Together'
 	    }]
 	};
 
