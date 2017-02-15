@@ -547,6 +547,12 @@
 	        steam: 'https://steamcommunity.com/id/punch1997',
 	        platform: 'steam',
 	        wanted: 'Tom Clancy\'s Rainbow Six Siege, Don\'t Starve Together'
+	    }, {
+	        name: '生而为人我很抱歉',
+	        qq: '472254113',
+	        steam: 'https://steamcommunity.com/id/7ylh',
+	        platform: 'steam',
+	        wanted: 'Tom Clancy\'s Rainbow Six Siege, cs:go, Tom Clancy\'s The Division(PC), GTA5'
 	    }]
 	};
 
