@@ -7,9 +7,10 @@ export function showResult(value) {
 
     data.folks.map((folk) => {
 
-        if (~folk.platform.indexOf(value) || ~folk.wanted.toLowerCase().indexOf(value)) {
+        if (~folk.platform.indexOf(value) || ~folk.wanted.toLowerCase().indexOf(value)
+            || ~folk.qq.indexOf(value)) {
 
-            let addSteam = ('' == folk.steam) ? '':'加为好友';
+            let addSteam = ('' == folk.steam) ? '' : '加为好友';
 
             tableBodys.push(
                 `<tr>

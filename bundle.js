@@ -321,7 +321,7 @@
 	
 	    _folks2.default.folks.map(function (folk) {
 	
-	        if (~folk.platform.indexOf(value) || ~folk.wanted.toLowerCase().indexOf(value)) {
+	        if (~folk.platform.indexOf(value) || ~folk.wanted.toLowerCase().indexOf(value) || ~folk.qq.indexOf(value)) {
 	
 	            var addSteam = '' == folk.steam ? '' : '加为好友';
 	
