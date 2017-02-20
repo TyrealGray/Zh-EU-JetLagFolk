@@ -354,13 +354,13 @@
 	        qq: '312846541',
 	        steam: 'https://steamcommunity.com/id/tyrealgray',
 	        platform: 'xbox(TyrealGray), steam',
-	        wanted: 'Battlerite, HELLDIVERS, Rainbow Six Siege(xbox), Dying Light(xbox), Overwatch(xbox)'
+	        wanted: 'World of Warcraft, Battlerite, HELLDIVERS, Rainbow Six Siege(xbox), Dying Light(xbox), Overwatch(xbox)'
 	    }, {
 	        name: '郭一年',
 	        qq: '971395764',
 	        steam: 'https://steamcommunity.com/id/guoyinian',
 	        platform: 'steam',
-	        wanted: 'Battlerite, HELLDIVERS, Terraria'
+	        wanted: 'World of Warcraft, Battlerite, HELLDIVERS, Terraria'
 	    }, {
 	        name: '柴鱼精',
 	        qq: '823404031',
@@ -372,7 +372,7 @@
 	        qq: '544040151',
 	        steam: 'https://steamcommunity.com/profiles/76561198250406440',
 	        platform: 'steam',
-	        wanted: 'Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), lol, The Wild Eight'
+	        wanted: 'World of Warcraft, Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), lol, The Wild Eight'
 	    }, {
 	        name: 'WGL',
 	        qq: '380866845',
@@ -396,7 +396,7 @@
 	        qq: '191619884',
 	        steam: 'https://steamcommunity.com/profiles/76561198089957998',
 	        platform: 'steam',
-	        wanted: 'Astroneer, GTA5, HELLDIVERS, Terraria'
+	        wanted: 'World of Warcraft, Astroneer, GTA5, HELLDIVERS, Terraria'
 	    }, {
 	        name: '横空飞禹',
 	        qq: '526733527',
@@ -468,7 +468,7 @@
 	        qq: '2780353702',
 	        steam: 'https://steamcommunity.com/profiles/76561198153355856/',
 	        platform: 'steam',
-	        wanted: 'Battlerite, Battlefield 1'
+	        wanted: 'World of Warcraft, Battlerite, Battlefield 1'
 	    }, {
 	        name: 'Samael`',
 	        qq: '379326483',
@@ -522,7 +522,7 @@
 	        qq: '635848205',
 	        steam: 'https://steamcommunity.com/id/chufangcheng',
 	        platform: 'steam',
-	        wanted: 'The Wild Eight, lol'
+	        wanted: 'World of Warcraft, The Wild Eight, lol'
 	    }, {
 	        name: 'sin',
 	        qq: '632564497',
