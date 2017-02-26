@@ -75,7 +75,7 @@ export default {
         qq: '198560609',
         steam: 'https://steamcommunity.com/profiles/76561198130311114',
         platform: 'steam',
-        wanted: 'lol, Rainbow Six Siege'
+        wanted: 'League of Legends, Rainbow Six Siege'
     }, {
         name: '-',
         qq: '1051109183',
