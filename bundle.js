@@ -354,13 +354,13 @@
 	        qq: '312846541',
 	        steam: 'https://steamcommunity.com/id/tyrealgray',
 	        platform: 'xbox(TyrealGray), steam',
-	        wanted: 'World of Warcraft, Battlerite, HELLDIVERS, Rainbow Six Siege(xbox), Dying Light(xbox), Overwatch(xbox)'
+	        wanted: 'World of Warcraft, Battlerite, HELLDIVERS, Rainbow Six Siege(xbox), Dying Light(xbox), Overwatch(xbox), League of Legends'
 	    }, {
 	        name: '郭一年',
 	        qq: '971395764',
 	        steam: 'https://steamcommunity.com/id/guoyinian',
 	        platform: 'steam',
-	        wanted: 'World of Warcraft, Battlerite, HELLDIVERS, Terraria'
+	        wanted: 'World of Warcraft, Battlerite, HELLDIVERS, Terraria, League of Legends'
 	    }, {
 	        name: '柴鱼精',
 	        qq: '823404031',
@@ -372,13 +372,13 @@
 	        qq: '544040151',
 	        steam: 'https://steamcommunity.com/profiles/76561198250406440',
 	        platform: 'steam',
-	        wanted: 'World of Warcraft, Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), lol, The Wild Eight'
+	        wanted: 'World of Warcraft, Battlerite, Overwatch(PC), GTA5(PC), H1Z1, Tom Clancy\'s the Division(PC), League of Legends, The Wild Eight'
 	    }, {
 	        name: 'WGL',
 	        qq: '380866845',
 	        platform: 'ps(xxzlu2) ,steam',
 	        steam: 'https://steamcommunity.com/profiles/76561198079607263',
-	        wanted: 'Battlerite'
+	        wanted: 'Battlerite, League of Legends'
 	    }, {
 	        name: 'M',
 	        qq: '1053272982',
@@ -438,7 +438,7 @@
 	        qq: '2250870219',
 	        steam: 'https://steamcommunity.com/profiles/76561198130692794',
 	        platform: 'xbox(laopang0401),steam',
-	        wanted: 'GTA5(xbox), Froza Horizon3(xbox), Tom Clancy\'s the Division(xbox), Terraria'
+	        wanted: 'GTA5(xbox), Froza Horizon3(xbox), Tom Clancy\'s the Division(xbox), Terraria, League of Legends'
 	    }, {
 	        name: '朱达',
 	        qq: '3216580562',
@@ -468,7 +468,7 @@
 	        qq: '2780353702',
 	        steam: 'https://steamcommunity.com/profiles/76561198153355856/',
 	        platform: 'steam',
-	        wanted: 'World of Warcraft, Battlerite, Battlefield 1'
+	        wanted: 'World of Warcraft, Battlerite, Battlefield 1, League of Legends, For Honor'
 	    }, {
 	        name: 'Samael`',
 	        qq: '379326483',
@@ -486,7 +486,7 @@
 	        qq: '642404169',
 	        steam: 'https://steamcommunity.com/id/WooooPrime',
 	        platform: 'steam',
-	        wanted: 'Counter-Strike: Global Offensive'
+	        wanted: 'Counter-Strike: Global Offensive, For Honor'
 	    }, {
 	        name: 'Aki',
 	        qq: '290197985',
@@ -522,7 +522,7 @@
 	        qq: '635848205',
 	        steam: 'https://steamcommunity.com/id/chufangcheng',
 	        platform: 'steam',
-	        wanted: 'World of Warcraft, The Wild Eight, lol'
+	        wanted: 'World of Warcraft, The Wild Eight, League of Legends'
 	    }, {
 	        name: 'sin',
 	        qq: '632564497',
@@ -553,6 +553,12 @@
 	        steam: 'https://steamcommunity.com/id/7ylh',
 	        platform: 'steam',
 	        wanted: 'Tom Clancy\'s Rainbow Six Siege, cs:go, Tom Clancy\'s The Division(PC), GTA5'
+	    }, {
+	        name: '',
+	        qq: '',
+	        steam: 'https://steamcommunity.com/profiles/76561198240493832/',
+	        platform: 'steam',
+	        wanted: 'Don\'t Starve Together, League of Legends'
 	    }]
 	};
 
