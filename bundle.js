@@ -564,7 +564,7 @@
 	        qq: '1070246396',
 	        steam: 'https://steamcommunity.com/profiles/76561198245576160',
 	        platform: 'steam',
-	        wanted: ''
+	        wanted: 'Tom Clancy\'s Rainbow Six Siege, Don\'t Starve Together'
 	    }]
 	};
 
