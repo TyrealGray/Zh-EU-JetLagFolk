@@ -209,10 +209,16 @@ export default {
         platform:'steam',
         wanted:'Tom Clancy\'s Rainbow Six Siege, cs:go, Tom Clancy\'s The Division(PC), GTA5'
     }, {
-        name:'',
-        qq:'',
-        steam:'https://steamcommunity.com/profiles/76561198240493832/',
+        name:'????',
+        qq:'??',
+        steam:'https://steamcommunity.com/profiles/76561198240493832',
         platform:'steam',
         wanted:'Don\'t Starve Together, League of Legends'
+    }, {
+        name:'糕毕戈',
+        qq:'1070246396',
+        steam:'https://steamcommunity.com/profiles/76561198245576160',
+        platform:'steam',
+        wanted:''
     }]
 }
