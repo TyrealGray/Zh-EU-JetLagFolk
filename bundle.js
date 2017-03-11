@@ -565,6 +565,12 @@
 	        steam: 'https://steamcommunity.com/profiles/76561198245576160',
 	        platform: 'steam',
 	        wanted: 'Tom Clancy\'s Rainbow Six Siege, Don\'t Starve Together'
+	    }, {
+	        name: '辣条儿',
+	        qq: '522679297',
+	        steam: 'https://steamcommunity.com/profiles/76561198230845084',
+	        platform: 'steam',
+	        wanted: 'World of Warcraft, Battlerite'
 	    }]
 	};
 
