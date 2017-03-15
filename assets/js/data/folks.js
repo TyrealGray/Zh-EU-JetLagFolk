@@ -50,7 +50,7 @@ export default {
         qq: '191619884',
         steam: 'https://steamcommunity.com/profiles/76561198089957998',
         platform: 'steam',
-        wanted: 'World of Warcraft, Astroneer, GTA5, HELLDIVERS, Terraria'
+        wanted: 'World of Warcraft, Astroneer, GTA5(PC), HELLDIVERS, Terraria'
     }, {
         name: '横空飞禹',
         qq: '526733527',
@@ -207,7 +207,7 @@ export default {
         qq:'472254113',
         steam:'https://steamcommunity.com/id/7ylh',
         platform:'steam',
-        wanted:'Tom Clancy\'s Rainbow Six Siege, cs:go, Tom Clancy\'s The Division(PC), GTA5'
+        wanted:'Tom Clancy\'s Rainbow Six Siege, cs:go, Tom Clancy\'s The Division(PC), GTA5(PC)'
     }, {
         name:'????',
         qq:'??',
@@ -226,5 +226,11 @@ export default {
         steam:'https://steamcommunity.com/profiles/76561198230845084',
         platform:'steam',
         wanted: 'World of Warcraft, Battlerite'
+    }, {
+        name:'Memori酱',
+        qq:'469938722',
+        steam:'http://steamcommunity.com/profiles/76561198144212148',
+        platform:'steam',
+        wanted:'Tom Clancy\'s The Division(PC), GTA5(PC)'
     }]
 }
