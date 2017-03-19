@@ -232,5 +232,11 @@ export default {
         steam:'http://steamcommunity.com/profiles/76561198144212148',
         platform:'steam',
         wanted:'Tom Clancy\'s The Division(PC), GTA5(PC)'
+    }, {
+        name:'   .',
+        qq:'273947364',
+        steam:'https://steamcommunity.com/profiles/76561198254701512',
+        platform:'steam',
+        wanted:'Tom Clancy\'s The Division(PC), GTA5(PC)'
     }]
 }
