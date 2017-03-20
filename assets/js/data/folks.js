@@ -238,5 +238,11 @@ export default {
         steam:'https://steamcommunity.com/profiles/76561198254701512',
         platform:'steam',
         wanted:'Tom Clancy\'s The Division(PC), GTA5(PC)'
+    }, {
+        name:'LehmanDY太熊',
+        qq:'339811616',
+        steam:'https://steamcommunity.com/profiles/76561198148589359',
+        platform:'steam',
+        wanted:'Warframe, Trove'
     }]
 }
