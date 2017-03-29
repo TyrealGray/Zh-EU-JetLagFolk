@@ -589,6 +589,12 @@
 	        steam: 'https://steamcommunity.com/profiles/76561198148589359',
 	        platform: 'steam',
 	        wanted: 'Warframe, Trove'
+	    }, {
+	        name: '_nice to meet you',
+	        qq: '751534212',
+	        steam: 'https://steamcommunity.com/id/xiaocaomei',
+	        platform: 'steam, uplay',
+	        wanted: 'Tom Clancy\'s The Division(PC), GTA5(PC), cs:go'
 	    }]
 	};
 
