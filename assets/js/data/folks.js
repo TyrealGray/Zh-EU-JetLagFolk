@@ -250,5 +250,17 @@ export default {
         steam:'https://steamcommunity.com/id/xiaocaomei',
         platform:'steam, uplay',
         wanted:'Tom Clancy\'s The Division(PC), GTA5(PC), cs:go'
+    }, {
+        name:'A￡L',
+        qq:'561560105',
+        steam:'',
+        platform:'xbox(BoZ916)',
+        wanted:'fifa17'
+    }, {
+        name:'周迪豪',
+        qq:'750665115',
+        steam:'',
+        platform:'xbox(AConwardPuma)',
+        wanted:'Overwatch(xbox)'
     }]
 }
