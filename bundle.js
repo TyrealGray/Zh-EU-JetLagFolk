@@ -607,6 +607,18 @@
 	        steam: '',
 	        platform: 'xbox(AConwardPuma)',
 	        wanted: 'Overwatch(xbox)'
+	    }, {
+	        name: 'BO',
+	        qq: '1185747899',
+	        steam: 'https://steamcommunity.com/id/bo0611',
+	        platform: 'steam',
+	        wanted: 'DARK SOULS 3'
+	    }, {
+	        name: '什么',
+	        qq: '402520996',
+	        steam: 'https://steamcommunity.com/profiles/76561198028903703',
+	        platform: 'steam',
+	        wanted: 'Dota2, DARK SOULS 3'
 	    }]
 	};
 
