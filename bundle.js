@@ -619,6 +619,12 @@
 	        steam: 'https://steamcommunity.com/profiles/76561198028903703',
 	        platform: 'steam',
 	        wanted: 'Dota2, DARK SOULS 3'
+	    }, {
+	        name: 'BerlineTanz',
+	        qq: '1913049848',
+	        steam: 'https://steamcommunity.com/id/FachD3/',
+	        platform: 'steam',
+	        wanted: 'Call of Duty: Black Ops III, ARK: Survival Evolved,PLAYERUNKNOWN\'S BATTLEGROUNDS, Don\'t Starve Together, Portal Knights'
 	    }]
 	};
 
