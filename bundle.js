@@ -434,9 +434,9 @@
 	        platform: 'steam',
 	        wanted: 'GTA5(PC)'
 	    }, {
-	        name: 'Klaus',
+	        name: 'LaoPang',
 	        qq: '2250870219',
-	        steam: 'https://steamcommunity.com/profiles/76561198130692794',
+	        steam: 'https://steamcommunity.com/profiles/76561198055782732',
 	        platform: 'xbox(laopang0401),steam',
 	        wanted: 'GTA5(xbox), Froza Horizon3(xbox), Tom Clancy\'s the Division(xbox), Terraria, League of Legends'
 	    }, {
