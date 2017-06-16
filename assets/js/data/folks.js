@@ -280,5 +280,17 @@ export default {
         steam:'https://steamcommunity.com/id/FachD3/',
         platform:'steam',
         wanted:'Call of Duty: Black Ops III, ARK: Survival Evolved,PLAYERUNKNOWN\'S BATTLEGROUNDS, Don\'t Starve Together, Portal Knights'
+    },{
+        name:'Applejack',
+        qq:'281794769',
+        steam:'https://steamcommunity.com/id/BMer',
+        platform:'steam',
+        wanted:'Team Fortress 2, Stellaris, Sid Meier\'s Civilization V, Dota 2'
+    },{
+        name:'永不言弃',
+        qq:'983673302',
+        steam:'https://steamcommunity.com/id/ZRTZRT',
+        platform:'steam',
+        wanted:'GTA5(PC)'
     }]
 }

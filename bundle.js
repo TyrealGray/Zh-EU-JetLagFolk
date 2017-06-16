@@ -42,7 +42,7 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 	
@@ -53,9 +53,9 @@
 	(0, _main.initZhEUPage)();
 	(0, _searchInput.initSearchInput)();
 
-/***/ },
+/***/ }),
 /* 1 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	
@@ -267,9 +267,9 @@
 		})();
 	};
 
-/***/ },
+/***/ }),
 /* 2 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 	
@@ -297,9 +297,9 @@
 	    }, false);
 	}
 
-/***/ },
+/***/ }),
 /* 3 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 	
@@ -339,9 +339,9 @@
 	    resultDiv.innerHTML = result;
 	}
 
-/***/ },
+/***/ }),
 /* 4 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	'use strict';
 	
@@ -625,9 +625,21 @@
 	        steam: 'https://steamcommunity.com/id/FachD3/',
 	        platform: 'steam',
 	        wanted: 'Call of Duty: Black Ops III, ARK: Survival Evolved,PLAYERUNKNOWN\'S BATTLEGROUNDS, Don\'t Starve Together, Portal Knights'
+	    }, {
+	        name: 'Applejack',
+	        qq: '281794769',
+	        steam: 'https://steamcommunity.com/id/BMer',
+	        platform: 'steam',
+	        wanted: 'Team Fortress 2, Stellaris, Sid Meier\'s Civilization V, Dota 2'
+	    }, {
+	        name: '永不言弃',
+	        qq: '983673302',
+	        steam: 'https://steamcommunity.com/id/ZRTZRT',
+	        platform: 'steam',
+	        wanted: 'GTA5(PC)'
 	    }]
 	};
 
-/***/ }
+/***/ })
 /******/ ]);
 //# sourceMappingURL=bundle.js.map
