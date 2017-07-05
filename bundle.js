@@ -637,6 +637,12 @@
 	        steam: 'https://steamcommunity.com/id/ZRTZRT',
 	        platform: 'steam',
 	        wanted: 'GTA5(PC)'
+	    }, {
+	        name: '迷路的小法师',
+	        qq: '269171333',
+	        steam: 'https://steamcommunity.com/profiles/76561198217011281',
+	        platform: 'steam',
+	        wanted: 'Don\'t Starve Together, Dota2, Left 4 Dead 2'
 	    }]
 	};
 
