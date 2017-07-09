@@ -298,5 +298,11 @@ export default {
         steam:'https://steamcommunity.com/profiles/76561198217011281',
         platform:'steam',
         wanted:'Don\'t Starve Together, Dota2, Left 4 Dead 2'
+    },{
+        name:'S2017',
+        qq:'1067823361',
+        steam:'https://steamcommunity.com/id/1067823361',
+        platform:'steam',
+        wanted:'Tom Clancy\'s Rainbow Six Siege, Counter-Strike: Global Offensive, PLAYERUNKNOWN\'S BATTLEGROUNDS'
     }]
 }
