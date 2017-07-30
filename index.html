@@ -5,50 +5,64 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>Zh-EU-JetLagFolk</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/page.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-	</head>
-	<body>
 
-		<!-- Header -->
-			<header id="header">
-				<h1>欧洲时差党</h1>
-				<p>一个简单的基于群友steam数据的搜索小工具<br />
-				帮助群友快速找到群里其他玩同样游戏的小伙伴</p>
-			</header>
+<head>
+	<title>Zh-EU-JetLagFolk</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/page.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+</head>
 
-		<!-- Signup Form -->
-			<form id="signup-form" method="post" action="#">
-				<input type="text" name="searchInput" id="searchInput" placeholder="输入游戏名或关键字查老司机" />
-			</form>
+<body>
 
-			<div id="result">
-				
-			</div>
+	<!-- Header -->
+	<header id="header">
+		<h1>欧洲时差党</h1>
+		<p>一个简单的基于群友steam数据的搜索小工具<br /> 帮助群友快速找到群里其他玩同样游戏的小伙伴
+		</p>
+	</header>
 
-		<!-- Footer -->
-			<footer id="footer" style="position: inherit;">
-				<!--<ul class="icons">
+	<!-- Signup Form -->
+	<form id="signup-form" method="post" action="#">
+		<input type="text" name="searchInput" id="searchInput" placeholder="输入游戏名或关键字查老司机" />
+	</form>
+
+	<div id="result">
+	</div>
+	<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5"></div>
+
+	<!-- Footer -->
+	<footer id="footer" style="position: inherit;">
+		<!--<ul class="icons">
 					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 					<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
 					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 				</ul>-->
-				<ul class="copyright">
-					<li>&copy; TyrealGray.</li><li>Author: <a href="https://github.com/TyrealGray">Tyreal Gray</a></li>
-				</ul>
-			</footer>
+		<ul class="copyright">
+			<li>&copy; TyrealGray.</li>
+			<li>Author: <a href="https://github.com/TyrealGray">Tyreal Gray</a></li>
+		</ul>
+	</footer>
 
-		<!-- Scripts -->
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script type="text/javascript" src="bundle.js" charset="utf-8"></script>
+	<!-- Scripts -->
+	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+	<script type="text/javascript" src="bundle.js" charset="utf-8"></script>
+	<div id="fb-root"></div>
+	<script>
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/zh_CN/sdk.js#xfbml=1&version=v2.10";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
 
-	</body>
+</body>
+
 </html>
