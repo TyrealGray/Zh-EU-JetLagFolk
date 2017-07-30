@@ -8,7 +8,7 @@ html {
 }
 
 #comment > span {
-  background: white;
+  background: white !important;
 }
 
 .shadow-z-1 {
