@@ -304,5 +304,17 @@ export default {
         steam:'https://steamcommunity.com/id/1067823361',
         platform:'steam',
         wanted:'Tom Clancy\'s Rainbow Six Siege, Counter-Strike: Global Offensive, PLAYERUNKNOWN\'S BATTLEGROUNDS'
+    },{
+        name:'橘子',
+        qq:'919730945',
+        steam:'https://steamcommunity.com/profiles/76561198056381322',
+        platform:'steam',
+        wanted:'Counter-Strike: Global Offensive, Don\'t Starve Together, Grand Theft Auto V, Left 4 Dead'
+    },{
+        name:'半阙',
+        qq:'904305767',
+        steam:'https://steamcommunity.com/id/yj0927',
+        platform:'steam',
+        wanted:'PLAYERUNKNOWN\'S BATTLEGROUNDS, Counter-Strike: Global Offensive, DARK SOULS™ III, Don\'t Starve Together, Grand Theft Auto V'
     }]
 }
