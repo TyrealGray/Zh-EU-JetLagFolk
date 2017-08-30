@@ -1,26 +1,26 @@
-import data from '../data/folks';
+import usersRef from "../data/folks"
 
 export function showResult(value) {
-
     let resultDiv = document.getElementById('result'),
         tableBodys = [];
 
-    data.folks.map((folk) => {
-
-        if (~folk.platform.indexOf(value) || ~folk.wanted.toLowerCase().indexOf(value)
-            || ~folk.qq.indexOf(value)) {
-
-            let addSteam = ('' == folk.steam) ? '' : '加为好友';
-
-            tableBodys.push(
-                `<tr>
-                <td title="some text for tooltip">${folk.name}(${folk.qq})</td>
-                <td>${folk.platform}</td>
-                <td>${folk.wanted}</td>
-                <td disable="true" ><a target="blank" href="${folk.steam}">${addSteam}</a></td>
-            </tr>`
-            );
-        }
+    usersRef.on('value', function(snapshot) {
+        snapshot.forEach(function(childSnapshot) {
+            value = value.toLowerCase()
+            var folk = childSnapshot.val()
+            if (~folk.platform.toLowerCase().indexOf(value) || ~folk.wanted.toLowerCase().indexOf(value)
+                || ~folk.qq.indexOf(value) || ~folk.name.toLowerCase().indexOf(value)) {
+                let addSteam = ('' == folk.steam) ? '' : '加为好友';
+                tableBodys.push(
+                    `<tr>
+                    <td title="some text for tooltip">${folk.name}(${folk.qq})</td>
+                    <td>${folk.platform}</td>
+                    <td>${folk.wanted}</td>
+                    <td disable="true" ><a target="blank" href="${folk.steam}">${addSteam}</a></td>
+                </tr>`
+                );
+            }
+        })
     })
 
     if (0 === tableBodys.length) {
