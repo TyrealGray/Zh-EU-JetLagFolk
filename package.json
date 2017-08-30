@@ -4,7 +4,8 @@
   "description": "a tool for search our zh-eu jet lag folk",
   "scripts": {
     "start": "webpack-dev-server --progress --colors",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy": "webpack && gh-pages-deploy"
   },
   "repository": {
     "type": "git",
