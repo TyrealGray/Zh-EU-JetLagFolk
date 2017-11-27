@@ -1,13 +1,13 @@
 import * as firebase from "firebase"
 
 var config = {
-    apiKey: "AIzaSyAcj8JDU8JIdbfRJi8xjRl3XjsTDtmfZ-Y",
-    authDomain: "zh-eu-jetlagfolk.firebaseapp.com",
-    databaseURL: "https://zh-eu-jetlagfolk.firebaseio.com",
-    projectId: "zh-eu-jetlagfolk",
-    storageBucket: "zh-eu-jetlagfolk.appspot.com",
-    messagingSenderId: "1057126373949"
-}
+    apiKey: "AIzaSyBFsU5c0JjFGPv3WRRIsZNx2RpduQkzIRc",
+    authDomain: "zh-eu-folks.firebaseapp.com",
+    databaseURL: "https://zh-eu-folks.firebaseio.com",
+    projectId: "zh-eu-folks",
+    storageBucket: "zh-eu-folks.appspot.com",
+    messagingSenderId: "217229419858"
+  };
 firebase.initializeApp(config)
 firebase.auth().signInAnonymously().catch(function(error) {
     var errorCode = error.code
