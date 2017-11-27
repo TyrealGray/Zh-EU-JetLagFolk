@@ -1,8 +1,9 @@
-import usersRef from "../data/folks"
-
 export function showResult(value) {
     let resultDiv = document.getElementById('result'),
         tableBodys = [];
+
+    let database = firebase.database();
+    let usersRef = database.ref('users');
 
     usersRef.on('value', function(snapshot) {
         snapshot.forEach(function(childSnapshot) {

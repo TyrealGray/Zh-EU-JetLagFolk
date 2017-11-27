@@ -82,7 +82,7 @@
 
 /***/ },
 /* 2 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ function(module, exports) {
 
 	'use strict';
 
@@ -90,18 +90,14 @@
 	    value: true
 	});
 	exports.showResult = showResult;
-
-	var _folks = __webpack_require__(3);
-
-	var _folks2 = _interopRequireDefault(_folks);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
 	function showResult(value) {
 	    var resultDiv = document.getElementById('result'),
 	        tableBodys = [];
 
-	    _folks2.default.on('value', function (snapshot) {
+	    var database = firebase.database();
+	    var usersRef = database.ref('users');
+
+	    usersRef.on('value', function (snapshot) {
 	        snapshot.forEach(function (childSnapshot) {
 	            value = value.toLowerCase();
 	            var folk = childSnapshot.val();
@@ -121,20 +117,6 @@
 
 	    resultDiv.innerHTML = result;
 	}
-
-/***/ },
-/* 3 */
-/***/ function(module, exports) {
-
-	'use strict';
-
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-	var database = firebase.database();
-	var usersRef = database.ref('users');
-
-	exports.default = usersRef;
 
 /***/ }
 /******/ ]);
