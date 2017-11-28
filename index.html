@@ -58,21 +58,12 @@
             messagingSenderId: "217229419858"
         };
         firebase.initializeApp(config);
+        firebase.auth().signInAnonymously().catch(function(error) {
+            var errorCode = error.code;
+            var errorMessage = error.message;
+        });
 	</script>
 	<script type="text/javascript" src="bundle.js" charset="utf-8"></script>
-	<!-- <div id="commemt" data-width="320" class="fb-comments" data-href="https://skyharp.github.io/Zh-EU-JetLagFolk/" data-numposts="5">
-	</div>
-	<div id="fb-root">
-	</div> -->
-	<!-- <script>
-		(function (d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0];
-			if (d.getElementById(id)) return;
-			js = d.createElement(s); js.id = id;
-			js.src = "//connect.facebook.net/zh_CN/sdk.js#xfbml=1&version=v2.10";
-			fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-	</script> -->
 
 </body>
 

@@ -5,7 +5,7 @@ export function showResult(value) {
     let database = firebase.database();
     let usersRef = database.ref('users');
 
-    usersRef.on('value', function(snapshot) {
+    usersRef.once('value', function(snapshot) {
         snapshot.forEach(function(childSnapshot) {
             value = value.toLowerCase()
             var folk = childSnapshot.val()
