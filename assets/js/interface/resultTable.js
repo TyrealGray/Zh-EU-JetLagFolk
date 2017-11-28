@@ -21,15 +21,13 @@ export function showResult(value) {
                 </tr>`
                 );
             }
-        })
-    })
 
-    if (0 === tableBodys.length) {
-        resultDiv.innerHTML = '';
-        return;
-    }
+            if (0 === tableBodys.length) {
+                resultDiv.innerHTML = '';
+                return;
+            }
 
-    const result = `<table class="table table-hover table-mc-light-blue">
+            const result = `<table class="table table-hover table-mc-light-blue">
                                 <tr>
                                     <th>群友</th>
                                     <th>平台</th>
@@ -39,5 +37,9 @@ export function showResult(value) {
                                 ${tableBodys.join('')}
                             </table>`;
 
-    resultDiv.innerHTML = result;
+            resultDiv.innerHTML = result;
+        })
+    })
+
+
 }

@@ -105,17 +105,17 @@
 	                var addSteam = '' == folk.steam ? '' : '加为好友';
 	                tableBodys.push('<tr>\n                    <td title="some text for tooltip">' + folk.name + '(' + folk.qq + ')</td>\n                    <td>' + folk.platform + '</td>\n                    <td>' + folk.wanted + '</td>\n                    <td disable="true" ><a target="blank" href="' + folk.steam + '">' + addSteam + '</a></td>\n                </tr>');
 	            }
+
+	            if (0 === tableBodys.length) {
+	                resultDiv.innerHTML = '';
+	                return;
+	            }
+
+	            var result = '<table class="table table-hover table-mc-light-blue">\n                                <tr>\n                                    <th>\u7FA4\u53CB</th>\n                                    <th>\u5E73\u53F0</th>\n                                    <th>\u6700\u8FD1\u60F3\u73A9</th>\n                                    <th>Steam</th>\n                                </tr>\n                                ' + tableBodys.join('') + '\n                            </table>';
+
+	            resultDiv.innerHTML = result;
 	        });
 	    });
-
-	    if (0 === tableBodys.length) {
-	        resultDiv.innerHTML = '';
-	        return;
-	    }
-
-	    var result = '<table class="table table-hover table-mc-light-blue">\n                                <tr>\n                                    <th>\u7FA4\u53CB</th>\n                                    <th>\u5E73\u53F0</th>\n                                    <th>\u6700\u8FD1\u60F3\u73A9</th>\n                                    <th>Steam</th>\n                                </tr>\n                                ' + tableBodys.join('') + '\n                            </table>';
-
-	    resultDiv.innerHTML = result;
 	}
 
 /***/ }
