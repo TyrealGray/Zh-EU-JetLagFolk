@@ -1,3 +1,3 @@
-import { initSearchInput } from './assets/js/interface/searchInput';
-
-initSearchInput();
+// import { initSearchInput } from './assets/js/interface/searchInput';
+//
+// initSearchInput();
