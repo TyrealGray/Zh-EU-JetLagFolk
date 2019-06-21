@@ -21,7 +21,7 @@
     "core-js": "2.5.7",
     "webpack": "4.22.0",
     "webpack-cli": "3.1.2",
-    "webpack-dev-server": "3.1.9"
+    "webpack-dev-server": "3.1.11"
   },
   "author": "Tyreal Gray",
   "license": "GPL-2.0",
